@@ -1,0 +1,2 @@
+Class profile::db {
+}
